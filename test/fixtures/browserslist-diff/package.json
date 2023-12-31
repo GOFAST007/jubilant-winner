@@ -1,0 +1,17 @@
+{
+  "description": "browserslist",
+  "license": "MIT",
+  "repository": {},
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "browserslist": "^4.21.0",
+    "postcss-preset-env": "^6.7.0",
+    "qs": "^6.6.0"
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "Firefox ESR",
+    "not dead"
+  ]
+}
